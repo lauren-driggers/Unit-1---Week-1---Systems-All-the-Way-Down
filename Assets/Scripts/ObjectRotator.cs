@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ObjectRotator : MonoBehaviour
 {
-    float orbitSpeed = .1f;
+    float orbitSpeed = .2f;
 
     // Start is called before the first frame update
     void Start()
